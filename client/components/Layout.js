@@ -37,13 +37,13 @@ export default function Layout(props) {
 
           <NavItem className="ml-auto">
             <Link href="/login">
-              <a className="nav-link">Sign In</a>
+              <a className="nav-link">Login</a>
             </Link>
           </NavItem>
 
           <NavItem>
             <Link href="/register">
-              <a className="nav-link"> Sign Up</a>
+              <a className="nav-link">Sign up</a>
             </Link>
           </NavItem>
         </Nav>
